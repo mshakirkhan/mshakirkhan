@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Muhammad Shakir Khan</h1>
-<p>I'm a Professional Full Stack Developer from Pakistan. Right now I am Working as a Freelancer. </p>
+<p>I'm a Professional Full Stack Developer from Pakistan. Right now working at Lathransoft as a Software Engineer as well as a Freelancer. </p>
 
-- 🔭 I’m currently working on **Rest APIs**
+- 🔭 I’m currently working on **Abbott Portal For Clinical Trials**
 - 🌱 I’m currently learning **NodeJS, GraphQL, DevOps & much more**
 - 📫 How to reach me: **shakir.sedoc@gmail.com**
 
