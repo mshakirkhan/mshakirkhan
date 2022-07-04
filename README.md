@@ -2,7 +2,7 @@
 <p>I'm a Professional Full Stack Developer from Pakistan. Right now working at Lathransoft as a Software Engineer as well as a Freelancer. </p>
 
 - 🔭 I’m currently working on **Abbott Portal For Clinical Trials**
-- 🌱 I’m currently learning **NodeJS, GraphQL, DevOps & much more**
+- 🌱 I’m currently learning **GraphQL, DevOps & much more**
 - 📫 How to reach me: **shakir.sedoc@gmail.com**
 
 <h2>Frontend Development: </h2>
