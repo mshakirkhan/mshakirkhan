@@ -16,3 +16,5 @@
 
 <h2>CMS</h2>
 <p>WordPress.</p>
+
+![Shakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshakirkhan&show_icons=true&theme=radical)
