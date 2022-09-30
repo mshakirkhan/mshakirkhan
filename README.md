@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Muhammad Shakir Khan</h1>
-<p>I'm a Professional Full Stack Developer from Pakistan. Right now working at Lathransoft as a Software Engineer as well as a Freelancer. </p>
+<p>A Professional Full Stack Engineer 👨‍💻 from Pakistan. A Top Rated Freelancer 🏅 at Upwork. Currently, I am working at LathranSoft as a Sr. Software Engineer. </p>
 
 - 🔭 I’m currently working on **Abbott Portal For Clinical Trials**
 - 🌱 I’m currently learning **GraphQL, DevOps & much more**
